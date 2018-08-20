@@ -1,4 +1,5 @@
 Copy the gmailtwigman folder in your site-packages (or dist-packages) of python2.X to make the module available in your python script.
+(Update: Yesterday I figured out, that you can keep it alternatively in your script folder and access to it equally.)
 
 For e.g. '/usr/lib/python2.7/dist-packages/gmailtwigman' or 'C:\\Python27\\Lib\\site-packages\\gmailtwigman\\'.
 
